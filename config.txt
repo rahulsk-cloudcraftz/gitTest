@@ -1,5 +1,5 @@
-config main 1
-config main 2
-config main 3
-config main 4
-
+config 1
+config 2
+config 3
+config 4
+config 5
