@@ -1,1 +1,1 @@
-config 1
+config main 1
