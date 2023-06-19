@@ -4,3 +4,4 @@ config main 3
 config main 4
 config main 5
 config main 6
+config main 7
