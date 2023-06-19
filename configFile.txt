@@ -1,4 +1,0 @@
-config for branch dev5
-config for brancg dev6
-new config dev
-config fir dev12
